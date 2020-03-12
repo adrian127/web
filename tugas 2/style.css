@@ -1,0 +1,101 @@
+body {
+    background-image: url('yonamlm.jfif');
+    background-repeat: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    font-family: arial;
+}
+
+nav ul {
+    background: #37988e;
+    padding: 0 20px;
+    list-style: none;
+    position: relative;
+    display: inline-table;
+    width: 100%;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li:hover {
+    background: #d68d9a;
+}
+
+nav ul li:hover a {
+    color: #000;
+}
+
+nav ul li a {
+    display: block;
+    padding: 25px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.intro {
+    font-size: 5vw;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,
+th,
+td {
+    border-width: 3px;
+    border: solid;
+    width: 40%;
+}
+
+td {
+    background-color: white;
+}
+
+.tabel {
+    background-color: whitesmoke;
+}
+
+.tabel2 {
+    background-color: whitesmoke;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,
+th,
+td {
+    border-width: 3px;
+    border: solid;
+    width: 40%;
+}
+
+td {
+    background-color: white;
+}
+
+.tabel {
+    background-color: whitesmoke;
+}
+
+.tabel2 {
+    background-color: whitesmoke;
+}

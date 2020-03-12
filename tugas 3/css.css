@@ -1,0 +1,28 @@
+body {
+    background-image: url(lolo.jpg)
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table,
+th,
+td {
+    border-width: 3px;
+    border: solid;
+    width: 40%;
+}
+
+td {
+    background-color: white;
+}
+
+.tabel {
+    background-color: yellowgreen;
+}
+
+.tabel2 {
+    background-color: tomato;
+}
